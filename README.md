@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repo for DS
+Repo for Data Science Project
